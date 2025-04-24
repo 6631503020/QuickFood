@@ -9,7 +9,7 @@ Thanakit Chupviroj_6631503020
 
 Framework ที่ใช้ (Framework Used): Flutter / React Native / อื่น ๆ
 
-ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here] //////
+ลิงก์ GitHub Repository: https://github.com/6631503020/QuickFood
 
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): https://expo.dev/accounts/thanakitchupviroj/projects/QuickFood/builds/08b5fd58-0005-4257-bc0a-478316b22991
 
