@@ -1,11 +1,18 @@
 # QuickFood
 Thanakit Chupviroj_6631503020
+
 ชื่อ - นามสกุล (Full Name): Thanakit Chupviroj
+
 รหัสนักศึกษา (Student ID): 6631503020
+
 ชื่อแอป (App Name): QuickFood
+
 Framework ที่ใช้ (Framework Used): Flutter / React Native / อื่น ๆ
+
 ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here] //////
+
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | Insert link here] //////
+
 
 ----------------------------------------------------------------
 
