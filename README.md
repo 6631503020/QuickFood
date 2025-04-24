@@ -112,13 +112,21 @@ Prompt ที่ใช้:
 ได้โครงสร้างโฟลเดอร์ src/screens, components, navigation พร้อม code สำหรับ Bottom Tab Navigation และรายการอาหาร
 
 5.4 ใช้ AI ช่วย debug | Debug Prompt
+
 Prompt ที่ใช้:
+
 "Cannot redeclare block-scoped variable 'styles'"
+
 ผลลัพธ์:
+
 AI อธิบายสาเหตุว่าเกิดจากการประกาศ const styles ซ้ำ และแนะนำให้ใช้ชื่อเฉพาะในแต่ละไฟล์ เช่น homeStyles, cartStyles
 
 5.5 ใช้ AI ช่วย Deploy | Deployment Prompt
+
 Prompt ที่ใช้:
+
 "///ทำยังไงให้รัน Expo App บน Android และ ios ได้"
+
 ผลลัพธ์:
+
 ///ได้คำแนะนำให้ใช้คำสั่ง npx expo start และสแกน QR code ผ่านแอพ Expo Go บนมือถือ Android และ Ios เพื่อทดสอบแอพได้ทันที
