@@ -7,7 +7,7 @@ Thanakit Chupviroj_6631503020
 
 ชื่อแอป (App Name): QuickFood
 
-Framework ที่ใช้ (Framework Used): Flutter / React Native / อื่น ๆ
+Framework ที่ใช้ (Framework Used):  React Native / อื่น ๆ
 
 ลิงก์ GitHub Repository: https://github.com/6631503020/QuickFood
 
