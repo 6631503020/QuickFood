@@ -72,14 +72,14 @@ Checklist:
 [x] Debug
 [ ] Release
 3.2 แพลตฟอร์มที่ทดสอบ | Platform Tested
-[ ] Android
-[x] iOS
+[x] Android
+[ ] iOS
 3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide
 แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps
 
 1. ดาวน์โหลดไฟล์ .apk
-2. เปิดโดยใช้ Expo
-
+2. เปิดในอุปกรณ์ Android
+3. ติดตั้งผ่าน File Manager
 ----------------------------------------------------------------
 
 # 4. การสะท้อนผลลัพธ์ | Reflection (2 คะแนน / 2 pts)
