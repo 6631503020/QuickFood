@@ -3,7 +3,9 @@ Thanakit Chupviroj_6631503020
 
 ชื่อ - นามสกุล (Full Name): Thanakit Chupviroj
 
-รหัสนักศึกษา (Student ID): 6631503020
+รหัสนักศึกษา (Student ID): 6631503020 
+
+ตอนเรียน (Section) : 1
 
 ชื่อแอป (App Name): QuickFood
 
