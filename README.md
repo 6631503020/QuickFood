@@ -155,6 +155,7 @@ Prompt ที่ใช้:
 ผลลัพธ์:
 
 ได้คำแนะนำให้ใช้คำสั่ง 
+npm install -g eas-cli
 eas login
 eas build:configure
 eas build -p android --profile preview
