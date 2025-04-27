@@ -65,8 +65,11 @@ Checklist:
 - [x] มีรีวิวดาวไว้ให้ผู้ใช้งานดู
 - [x] สแกนจ่ายเงิน
 - [ ] ซิงก์กับ Google Map
+
 2.3 ภาพหน้าจอแอป | App Screenshots
+
 แนบภาพหรือ URL (Attach images or image links):
+
 - ![image](https://github.com/user-attachments/assets/a5a0b5d9-1ba5-4556-8fd9-c2fe18f0351a)
 - ![image](https://github.com/user-attachments/assets/d36655c8-6713-411a-8758-accbb5f22499)
 - ![image](https://github.com/user-attachments/assets/619d28d5-2184-4c37-a5b7-2add7f98af12)
@@ -88,6 +91,7 @@ Checklist:
 
 
 3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide
+
 แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps
 
 1. ดาวน์โหลดไฟล์ .apk
