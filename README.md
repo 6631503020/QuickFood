@@ -13,8 +13,7 @@ Framework ที่ใช้ (Framework Used):  React Native / อื่น ๆ
 
 ลิงก์ GitHub Repository: https://github.com/6631503020/QuickFood
 
-ลิงก์ไฟล์ติดตั้ง (APK/IPA): https://expo.dev/accounts/thanakitchupviroj/projects/QuickFood/builds/08b5fd58-0005-4257-bc0a-478316b22991
-
+ลิงก์ไฟล์ติดตั้ง (APK/IPA): https://expo.dev/accounts/thanakitchupviroj/projects/QuickFood/builds/dd3d32ff-349f-42db-a786-c4625f6f699b
 
 ----------------------------------------------------------------
 
